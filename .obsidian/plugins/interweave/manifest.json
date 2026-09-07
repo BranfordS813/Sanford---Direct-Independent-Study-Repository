@@ -1,0 +1,10 @@
+{
+	"id": "interweave-plugin",
+	"name": "Interweave",
+	"version": "1.0.3",
+	"minAppVersion": "0.15.0",
+	"description": "Venn and Euler diagrams plugin.",
+	"author": "Alterdekim",
+	"authorUrl": "https://awain.net",
+	"isDesktopOnly": false
+}

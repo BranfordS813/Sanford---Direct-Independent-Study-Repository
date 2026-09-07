@@ -1,0 +1,23 @@
+{
+  "secrets": {},
+  "outputLocations": {},
+  "outputSettings": {
+    "onenote-file": {
+      "folder": "OneNote",
+      "attachments": {
+        "mode": "vault",
+        "path": ""
+      },
+      "duplicates": "update",
+      "saveSourceId": true,
+      "idProperty": "onenote-id",
+      "template": "",
+      "titleTemplate": "{{title}}"
+    }
+  },
+  "onenoteAttachments": {},
+  "sourceFolders": {
+    "onenote-file": "C:\\Users\\Sapph\\Documents\\OneNote_Notebooks\\Tutorials"
+  },
+  "lastSourceFolder": "C:\\Users\\Sapph\\Documents\\OneNote_Notebooks\\Tutorials"
+}

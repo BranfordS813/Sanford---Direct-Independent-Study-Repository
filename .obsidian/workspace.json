@@ -1,0 +1,300 @@
+{
+  "main": {
+    "id": "ae60f04dba84b560",
+    "type": "split",
+    "children": [
+      {
+        "id": "c69f5cde12930b9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b6f7bb6bbffb22f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture 25 - CAP 6935.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 25 - CAP 6935"
+            }
+          },
+          {
+            "id": "7f234ae749009b9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "0b23dd0b8d5897d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "steuteville25GreatIdeas2017.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "steuteville25GreatIdeas2017"
+            }
+          },
+          {
+            "id": "1d1f74b2c5f8cb9f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "09bdfcdb161196af",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bcf0fb0253601c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9620c18c329b4c6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "129310fef12173f1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b1e730447c64e95e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8e84fafaf591a988",
+    "type": "split",
+    "children": [
+      {
+        "id": "44ccbd2c2498ed56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e71b3afa340d3e33",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2026-09-04.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "58d468d3822537a2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2026-09-04.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "993099e0ac47cd73",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "68554e726dde7ac0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e15fd118e1d8236c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "e158e9a58d2a95c6",
+            "type": "leaf",
+            "state": {
+              "type": "notebooklm-webview",
+              "state": {},
+              "icon": "book-open",
+              "title": "NotebookLM"
+            }
+          },
+          {
+            "id": "e1558c9b74bf3ad1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "livecodes-playground:Open playground": false,
+      "livecodes-playground:Quick playground": false,
+      "livecodes-playground:Search playgrounds": false,
+      "star-notebooklm:Send to NotebookLM": false,
+      "star-notebooklm:Open NotebookLM": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-importer:Import notes": false,
+      "terminal:Open terminal": false
+    }
+  },
+  "active": "e1558c9b74bf3ad1",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-09-05 11.42.34.excalidraw.md",
+    "Excalidraw/Drawing 2026-09-04 17.55.11.excalidraw.md",
+    "Welcome.md",
+    "steuteville25GreatIdeas2017.md",
+    "Pasted image 20260411103656.png",
+    "Pasted image 20260411102202.png",
+    "Lecture 26 - CAP 6935.md",
+    "create a link.md",
+    "Lecture 25 - CAP 6935.md",
+    "Untitled.base",
+    "Untitled 3.base",
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "Let's move illustrations with Live2D! ~ Separate character parts with `` CLIP STUDIO PAINT '' by ClipStudioOfficial - CLIP STUDIO TIPS image.jpeg",
+    "Let's move illustrations with Live2D! ~ Separate character parts with `` CLIP STUDIO PAINT '' by ClipStudioOfficial - CLIP STUDIO TIPS image.png",
+    "2026-09-04.md",
+    "OneNote/Clip Studio Animation/Nested Animation Basics “Nested Animation 1” by Gaerek - CLIP STUDIO TIPS.md",
+    "OneNote/Clip Studio Animation/Introduction to the series - Camerawork and storyboarding “Camerawork and storyboarding 1” by eonovels - CLIP STUDIO TIPS.md",
+    "OneNote/Clip Studio Animation/How to make magical summon effect for animation scene.md",
+    "OneNote/Clip Studio Animation/Classification of camera shots by size (multilingual) “Camerawork and storyboarding 3” by eonovels - CLIP STUDIO TIPS.md",
+    "OneNote/Clip Studio Animation/Animating Illustrations - Basketball!.md",
+    "OneNote/Clip Studio Animation/Animate an illustration with Keyframes and cameras by Mattlamp - CLIP STUDIO TIPS.md",
+    "OneNote/Clip Studio Animation/I tried to wake up the title with keyframes.md",
+    "OneNote/Clip Studio Animation/Animating Illustrations - Beginner Animation.md",
+    "OneNote/Clip Studio Animation/More than 10 mini animations and production method.md",
+    "OneNote/Clip Studio Animation/WALK CYCLES USING 3D MODELS.md",
+    "OneNote/Clip Studio Animation/Simple Fire Animation  Stock Footage Tutorial.md",
+    "OneNote/Clip Studio Animation/Practicing Short Animations, also known as Moving Illustrations or Ugoira “How to create moving illustrations 1” by.md",
+    "OneNote/Clip Studio Animation/Placing A Character In A Perspective Paint by Manleonardo - CLIP STUDIO TIPS.md",
+    "OneNote/Clip Studio Animation/Integrated Magic Circle Animation “Nested Animation 2” by Gaerek - CLIP STUDIO TIPS.md",
+    "OneNote/Clip Studio Animation/Basic Walk Cycle with Keyframes by Mana1057 - CLIP STUDIO TIPS.md",
+    "OneNote/Clip Studio Animation/Classification of camera shots by focus “Camerawork and storyboarding 4” by eonovels - CLIP STUDIO TIPS.md",
+    "OneNote/Clip Studio Animation/Guide to animating in ClipStudio - from Zero “Camerawork and storyboarding 2” by eonovels - CLIP STUDIO TIPS.md",
+    "OneNote/Clip Studio Animation",
+    "OneNote",
+    "3-1_Names.py",
+    "2026-09-04.ipynb",
+    "Excalidraw",
+    "playgrounds/testing.json",
+    "Untitled.canvas"
+  ]
+}

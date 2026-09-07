@@ -1,0 +1,8 @@
+{
+  "autoSync": true,
+  "bidirectionalSync": false,
+  "autoConvertToNotebookOnRun": true,
+  "toolingPython": "C:\\Users\\Sapph\\Documents\\branford_vault\\.jupymd\\Scripts\\python.exe",
+  "notebookEditorCommand": "jupyter-lab",
+  "enableCodeBlocks": true
+}
