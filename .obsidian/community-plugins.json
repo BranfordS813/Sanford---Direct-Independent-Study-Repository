@@ -9,5 +9,6 @@
   "jupymd",
   "obsidian-git",
   "obsidian-importer",
-  "terminal"
+  "terminal",
+  "codeblock-customizer"
 ]

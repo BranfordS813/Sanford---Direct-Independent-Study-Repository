@@ -1,0 +1,9 @@
+/* Scale Mermaid SVG elements to fit the width of the page without scrolling */
+.mermaid svg {
+    max-width: 100% !important;
+    height: auto !important;
+}
+
+.mermaid {
+    overflow: hidden !important;
+}

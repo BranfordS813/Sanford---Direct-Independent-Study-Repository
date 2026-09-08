@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c69f5cde12930b9b",
+        "id": "b56c66a6505b38f4",
         "type": "tabs",
         "children": [
           {
-            "id": "18cba46d38a82add",
+            "id": "c9eb3775a0418ca5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Bioinformatics x New Urbanism Topics VD.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -193,7 +193,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,9 +217,14 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "18cba46d38a82add",
+  "active": "c9eb3775a0418ca5",
   "lastOpenFiles": [
+    "Matplotlib_Venn_Test.ipynb",
+    "Bioinformatics x New Urbanism Topics VD.ipynb",
     "Bioinformatics x New Urbanism Topics VD.md",
+    "New folder",
+    "Images/metabolomics-figure-1024x576.webp",
+    "Images",
     "Welcome.md",
     "Excalidraw/Drawing 2026-09-05 11.42.34.excalidraw.md",
     "Excalidraw/Drawing 2026-09-04 17.55.11.excalidraw.md",
@@ -251,13 +257,9 @@
     "OneNote/Clip Studio Animation/Integrated Magic Circle Animation “Nested Animation 2” by Gaerek - CLIP STUDIO TIPS.md",
     "OneNote/Clip Studio Animation/Basic Walk Cycle with Keyframes by Mana1057 - CLIP STUDIO TIPS.md",
     "OneNote/Clip Studio Animation/Classification of camera shots by focus “Camerawork and storyboarding 4” by eonovels - CLIP STUDIO TIPS.md",
-    "OneNote/Clip Studio Animation/Guide to animating in ClipStudio - from Zero “Camerawork and storyboarding 2” by eonovels - CLIP STUDIO TIPS.md",
     "OneNote/Clip Studio Animation",
     "OneNote",
     "3-1_Names.py",
-    "2026-09-04.ipynb",
-    "Excalidraw",
-    "playgrounds/testing.json",
     "Untitled.canvas"
   ]
 }
