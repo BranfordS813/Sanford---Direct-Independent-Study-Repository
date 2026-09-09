@@ -920,7 +920,7 @@
     "frontmatter": {
       "enableFrontmatterStyling": true
     },
-    "enableEditorActiveLineHighlight": true,
+    "enableEditorActiveLineHighlight": false,
     "syntaxThemes": {
       "globalSyntaxTheme": "",
       "languageSpecificSyntaxThemes": {}

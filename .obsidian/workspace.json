@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-09-08.md",
+                "file": "Bioinformatics x New Urbanism Topics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-09-08"
+              "title": "Bioinformatics x New Urbanism Topics"
+            }
+          },
+          {
+            "id": "71b1193c1e7e5b8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bioinformatic Topics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bioinformatic Topics"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 361.5,
+    "collapsed": true
   },
   "right": {
     "id": "8e84fafaf591a988",
@@ -158,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "2026-09-08.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -173,8 +189,8 @@
             "state": {
               "type": "notebooklm-webview",
               "state": {},
-              "icon": "book-open",
-              "title": "NotebookLM"
+              "icon": "lucide-ghost",
+              "title": "notebooklm-webview"
             }
           },
           {
@@ -215,13 +231,16 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "c9eb3775a0418ca5",
+  "active": "71b1193c1e7e5b8d",
   "lastOpenFiles": [
-    "Bioinformatics x New Urbanism Topics VD.md",
+    "Bioinformatics x New Urbanism Topics.md",
+    "Bioinformatic Topics.md",
+    "Bioinformatics x New Urbanism Topics.ipynb",
+    "Bioinformatics x New Urbanism Topics VD Experiment.md",
+    "Welcome.md",
+    "2026-09-08.md",
     "Images/metabolomics-figure-1024x576.webp",
     "Images/Pasted image 20260908225720.png",
-    "2026-09-08.md",
-    "Welcome.md",
     "Pasted image 20260908225434.png",
     "Matplotlib_Venn_Test.ipynb",
     "Bioinformatics x New Urbanism Topics VD.ipynb",
@@ -255,10 +274,7 @@
     "OneNote/Clip Studio Animation/Simple Fire Animation  Stock Footage Tutorial.md",
     "OneNote/Clip Studio Animation/Practicing Short Animations, also known as Moving Illustrations or Ugoira “How to create moving illustrations 1” by.md",
     "OneNote/Clip Studio Animation/Placing A Character In A Perspective Paint by Manleonardo - CLIP STUDIO TIPS.md",
-    "OneNote/Clip Studio Animation/Integrated Magic Circle Animation “Nested Animation 2” by Gaerek - CLIP STUDIO TIPS.md",
-    "OneNote/Clip Studio Animation/Basic Walk Cycle with Keyframes by Mana1057 - CLIP STUDIO TIPS.md",
     "OneNote/Clip Studio Animation",
-    "OneNote",
     "Untitled.canvas"
   ]
 }
