@@ -1,19 +1,3 @@
----
-jupyter:
-  jupytext:
-    cell_metadata_filter: -all
-    formats: ipynb,md
-    text_representation:
-      extension: .md
-      format_name: markdown
-      format_version: '1.3'
-      jupytext_version: 1.19.5
-  kernelspec:
-    display_name: Python (master_env)
-    language: python
-    name: master_env
----
-
 
 The project needs to deal with big data. The question then is what to do with it. And are there other data to incorporate as well? But more so, what is the purpose of the data? Is it for Classification? Prediction?
 
@@ -163,7 +147,9 @@ Venn Diagram - HTML
   </div>
 </div>
 
+Venn Diagram - Matplotlib-Venn 
 
+![[Pasted image 20260908225720.png]]
 
 
 
