@@ -4,39 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "b56c66a6505b38f4",
+        "id": "39906e86509e8a55",
         "type": "tabs",
         "children": [
           {
-            "id": "c9eb3775a0418ca5",
+            "id": "bd3b4f6d96ec50b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bioinformatics x New Urbanism Topics.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bioinformatics x New Urbanism Topics"
+              "title": "Welcome"
             }
           },
           {
-            "id": "71b1193c1e7e5b8d",
+            "id": "929c2bb9fc812d63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bioinformatic Topics.md",
+                "file": "New Urbanism Topics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bioinformatic Topics"
+              "title": "New Urbanism Topics"
+            }
+          },
+          {
+            "id": "709f0c9922d40053",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/85th Percentile Rule.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "85th Percentile Rule"
+            }
+          },
+          {
+            "id": "47659390ead53658",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New Urbanism Topics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "New Urbanism Topics"
+            }
+          },
+          {
+            "id": "a14c27d84eb78a4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal Takes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Personal Takes"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -95,8 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361.5,
-    "collapsed": true
+    "width": 361.5
   },
   "right": {
     "id": "8e84fafaf591a988",
@@ -231,13 +272,25 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "71b1193c1e7e5b8d",
+  "active": "a14c27d84eb78a4f",
   "lastOpenFiles": [
+    "New Urbanism Topics.md",
+    "Personal Takes.md",
+    "Concepts/Road Design Considerations.md",
+    "Concepts/Heat Island Effect.md",
+    "Pasted image 20260911192428.jpg",
+    "Pasted image 20260911192034.jpg",
+    "Concepts/Induced Demand.md",
+    "Concepts/85th Percentile Rule.md",
     "Bioinformatics x New Urbanism Topics.md",
     "Bioinformatic Topics.md",
+    "Images/Pasted image 20260911143417.png",
+    "85th Percentile.md",
+    "Images/level-of-service-chart-source-Utah-DOT-1.webp",
+    "Welcome.md",
+    "Concepts",
     "Bioinformatics x New Urbanism Topics.ipynb",
     "Bioinformatics x New Urbanism Topics VD Experiment.md",
-    "Welcome.md",
     "2026-09-08.md",
     "Images/metabolomics-figure-1024x576.webp",
     "Images/Pasted image 20260908225720.png",
@@ -259,7 +312,6 @@
     "Untitled 2.base",
     "Untitled 1.base",
     "Let's move illustrations with Live2D! ~ Separate character parts with `` CLIP STUDIO PAINT '' by ClipStudioOfficial - CLIP STUDIO TIPS image.jpeg",
-    "Let's move illustrations with Live2D! ~ Separate character parts with `` CLIP STUDIO PAINT '' by ClipStudioOfficial - CLIP STUDIO TIPS image.png",
     "2026-09-04.md",
     "OneNote/Clip Studio Animation/Nested Animation Basics “Nested Animation 1” by Gaerek - CLIP STUDIO TIPS.md",
     "OneNote/Clip Studio Animation/Introduction to the series - Camerawork and storyboarding “Camerawork and storyboarding 1” by eonovels - CLIP STUDIO TIPS.md",
@@ -268,13 +320,6 @@
     "OneNote/Clip Studio Animation/Animating Illustrations - Basketball!.md",
     "OneNote/Clip Studio Animation/Animate an illustration with Keyframes and cameras by Mattlamp - CLIP STUDIO TIPS.md",
     "OneNote/Clip Studio Animation/I tried to wake up the title with keyframes.md",
-    "OneNote/Clip Studio Animation/Animating Illustrations - Beginner Animation.md",
-    "OneNote/Clip Studio Animation/More than 10 mini animations and production method.md",
-    "OneNote/Clip Studio Animation/WALK CYCLES USING 3D MODELS.md",
-    "OneNote/Clip Studio Animation/Simple Fire Animation  Stock Footage Tutorial.md",
-    "OneNote/Clip Studio Animation/Practicing Short Animations, also known as Moving Illustrations or Ugoira “How to create moving illustrations 1” by.md",
-    "OneNote/Clip Studio Animation/Placing A Character In A Perspective Paint by Manleonardo - CLIP STUDIO TIPS.md",
-    "OneNote/Clip Studio Animation",
     "Untitled.canvas"
   ]
 }
