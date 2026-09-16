@@ -83,6 +83,7 @@ https://www.cnu.org/publicsquare/2017/04/13/great-idea-rural-urban-transect
 	- T6 - Urban Core Zone
 	- SD - Special District 
 	  ![[Pasted image 20260913235238.jpg]]
+	Note, Special District (SD) falls outside of the T1-T6 transect in that they are areas that basically do not have discernable way to categorize as transect with a clear gradient (greenery). They are also typically associated with special use areas that do not really have anything to do with residency or area resources, and are often single use. Examples include mega scale facilities, college campuses, hospitals, powerplants, stadiums, and or big box retail centers. Even though such areas may feature some form of greenery, it is usually controlled or regulated without any real form of a natural ecosystem allowed.
 	The main purpose of the transect is to illustrate how new urbanism can be more than urban development - it can incorporate nature and blend urbanism to create a natural ecosystem. The transect can further provide assistance for form-based design and coding (i.e., land use).
 <br>
 - **Transit-Oriented Development (TOD)**

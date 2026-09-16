@@ -11,12 +11,14 @@
             "id": "01147f9ce48406b2",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Pasted image 20260913235238.jpg"
+                "file": "New Urbanism Topics.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260913235238"
+              "icon": "lucide-file",
+              "title": "New Urbanism Topics"
             }
           }
         ]
@@ -190,7 +192,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,24 +216,25 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "b9620c18c329b4c6",
+  "active": "01147f9ce48406b2",
   "lastOpenFiles": [
-    "Bioinformatics x New Urbanism Topics.md",
-    "Bioinformatics x New Urbanism Topics VD Experiment.md",
-    "New Urbanism Topics.md",
-    "Images/Pasted image 20260913235238.jpg",
-    "Untitled.md",
-    "Images/level-of-service-chart-source-Utah-DOT-1.webp",
-    "Concepts/Road Design Considerations.md",
-    "Concepts/Induced Demand.md",
-    "Concepts/Heat Island Effect.md",
-    "Concepts/85th Percentile Rule.md",
+    "Data_Exploration.ipynb",
+    "Bioinformatic Topics.md",
     "Concepts/Third Spaces.md",
+    "Concepts/Induced Demand.md",
+    "Concepts/Road Design Considerations.md",
+    "Bioinformatics x New Urbanism Topics.md",
+    "New Urbanism Topics.md",
+    "Images/level-of-service-chart-source-Utah-DOT-1.webp",
+    "Concepts/85th Percentile Rule.md",
+    "Concepts/Heat Island Effect.md",
+    "Images/Pasted image 20260913235238.jpg",
+    "Bioinformatics x New Urbanism Topics VD Experiment.md",
+    "Untitled.md",
     "Personal Takes.md",
     "Welcome.md",
     "Images/Pasted image 20260911192034.jpg",
     "Images/Pasted image 20260911192428.jpg",
-    "Bioinformatic Topics.md",
     "Images/Pasted image 20260911143417.png",
     "85th Percentile.md",
     "Concepts",
